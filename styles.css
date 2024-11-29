@@ -8,6 +8,15 @@ body {
     font-family: Arial, sans-serif;
 }
 
+header{
+    height: 100vh​;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+}
+
+
 .gradient-text {
     font-size: 48px;
     font-weight: bold;
@@ -32,6 +41,3 @@ body {
     }
 }
 
-h1, h2 {
-    text-transform: uppercase;
-}
